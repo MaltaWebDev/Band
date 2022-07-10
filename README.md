@@ -1,7 +1,8 @@
-# Band website with ticket booking system.  
+# Band website with ticket booking system.
 
 ## Languages used
+
 - Vanilla JS
-- CSS
+- CSS with Flexbox
 
 ## Technologies used
